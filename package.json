@@ -1,0 +1,33 @@
+{
+  "name": "codewhiz",
+  "version": "1.0.2",
+  "description": "codewhiz",
+  "type": "module",
+  "main": "codewhiz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/letimmsn20/codewhiz"
+  },
+  "website": "https://github.com/letimmsn20/codewhiz.git",
+  "keywords": [
+    "codewhiz"
+  ],
+  "author": "letimmsn20",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letimmsn20/codewhiz/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/letimmsn20/codewhiz#readme",
+  "dependencies": {
+    "scriptcraftbox": "1.0.2",
+    "programgenius": "1.0.2",
+    "codecraftsmaster": "1.0.2" 
+  }
+}
